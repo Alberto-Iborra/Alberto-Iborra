@@ -1,0 +1,14 @@
+.principal{
+    display: flex;
+
+}
+.listado{
+    display: flex;
+    align-items: center;
+    
+
+}
+.buttons{
+    display: flex;
+    display:inline-flex
+}

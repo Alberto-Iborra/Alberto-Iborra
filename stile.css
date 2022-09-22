@@ -1,0 +1,33 @@
+.principal{
+    display: flex;
+    width: 750px;
+
+}
+.listado{
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.list{
+    padding-left: 17px;
+
+}
+
+.buttons{
+    display: flex;
+}
+
+button{
+    size: 20px;
+
+}
+.tamaño{
+    display: inline flex;
+    display:flex;
+
+}
+
+.terms{
+    margin-top: 20px;
+}
